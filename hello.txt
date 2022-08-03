@@ -1,4 +1,3 @@
 hello git!
 hello atguitu！
-hello world！
-hello fix！
+hello world！fix
